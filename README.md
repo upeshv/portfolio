@@ -20,9 +20,9 @@
 *Strategic leadership and technical execution during my 7-year tenure at BrowserStack.*
 
 <details>
-<summary>
+
   <b>🤖 AI Optimization & Figma-to-MCP Pipeline</b> — 📂 <i>[Click to see Impact]</i>
-</summary>
+
 
 <ul>
 <li><b>AI Enablement:</b> Led Copilot adoption for 14 CMS squads, achieving a <b>25% lift in developer velocity</b>.</li>
