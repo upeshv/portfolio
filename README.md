@@ -58,8 +58,6 @@
 </ul>
 </details>
 
-<hr>
-
 <details>
 <summary><b>⚡ Performance: BrowserStack Speed Optimization</b> — <i>(Click to expand)</i></summary>
 <ul>
@@ -68,8 +66,6 @@
   <li><b>Advanced Tactics:</b> Implemented dynamic <b>First Fold CSS</b> and internal URL prefetching.</li>
 </ul>
 </details>
-
-<hr>
 
 <details>
 <summary><b>⚙️ Engineering Operations (OKRs)</b> — <i>(Click to expand)</i></summary>
