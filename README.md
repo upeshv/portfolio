@@ -25,56 +25,67 @@
 
 <details>
 <summary><b>🤖 AI Optimization & Figma-to-MCP Pipeline</b> — 📂 <i>[Click to see Impact]</i></summary>
+
 <ul>
 <li><b>AI Enablement:</b> Led Copilot adoption for 14 CMS squads, achieving a <b>25% lift in developer velocity</b>.</li>
 <li><b>Architectural Innovation:</b> Developed an automated <b>Figma-to-MCP server pipeline</b> using Model Context Protocol.</li>
 <li><b>SDD Frameworks:</b> Implemented structured SDD to optimize AI output, reducing manual refactoring by 20%.</li>
 </ul>
 </details>
+
 <div style="height:8px"></div>
 
 <details>
 <summary><b>🌐 Enterprise Website Revamp & Engineering Automation</b> — 📂 <i>[Click to see Impact]</i></summary>
+
 <ul>
 <li><b>Scale:</b> Directed a <b>5,000+ page architectural overhaul</b> across WordPress and documentation platforms.</li>
 <li><b>Performance:</b> Engineered a <b>CWV monitoring suite</b>, resolving critical <b>INP</b> bottlenecks across 2,000+ pages.</li>
 <li><b>Efficiency:</b> Automated the "Guide Publishing" lifecycle, increasing output by <b>150% (2.5x)</b>.</li>
 </ul>
 </details>
+
 <div style="height:8px"></div>
 
 <details>
 <summary><b>📦 Infrastructure: WPEngine Staging Re-Design</b> — 📂 <i>[Click to see Impact]</i></summary>
+
 <ul>
 <li><b>Resource Optimization:</b> Consolidated fragmented upload directories, recovering <b>30GB+ of high-cost storage</b>.</li>
 <li><b>Cost Reduction:</b> Achieved an annual hosting cost reduction of <b>~$1,200</b>.</li>
 <li><b>Scalability:</b> Engineered a framework allowing rapid deployment without increasing overhead.</li>
 </ul>
 </details>
+
 <div style="height:8px"></div>
 
 <details>
 <summary><b>🔄 Global Migration: Rails to WordPress</b> — 📂 <i>[Click to see Impact]</i></summary>
+
 <ul>
 <li><b>Execution:</b> Architected the end-to-end migration of <b>3,200+ documentation pages</b> in just 4 months.</li>
 <li><b>Custom Tooling:</b> Developed a Documentation Dashboard using WP Hooks/Filters for real-time tracking.</li>
 <li><b>Automation:</b> Built a <b>GitHub Actions CI/CD pipeline</b> to sync docs via the WordPress REST API.</li>
 </ul>
 </details>
+
 <div style="height:8px"></div>
 
 <details>
 <summary><b>⚡ Performance: BrowserStack Speed Optimization</b> — 📂 <i>[Click to see Impact]</i></summary>
+
 <ul>
 <li><b>Speed Benchmarks:</b> Achieved Desktop (1.2s - 1.8s) and Mobile (1.6s - 2.3s) load times.</li>
 <li><b>Technical Refactor:</b> Completely replaced jQuery with <b>Vanilla JS</b> and implemented lazy-loaded Sentry.</li>
 <li><b>Advanced Tactics:</b> Implemented dynamic <b>First Fold CSS</b> and internal URL prefetching.</li>
 </ul>
 </details>
+
 <div style="height:8px"></div>
 
 <details>
 <summary><b>⚙️ Engineering Operations (OKRs)</b> — 📂 <i>[Click to see Impact]</i></summary>
+
 <ul>
 <li><b>Environment Sync:</b> Created Jenkins jobs for daily Production-to-Staging DB synchronization.</li>
 <li><b>CI/CD Integration:</b> Integrated GitHub pipelines with WPEngine and automated asset compilation.</li>
