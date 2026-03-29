@@ -3,7 +3,8 @@
 
 [LinkedIn](https://linkedin.com/in/upeshv) | [GitHub Profile](https://github.com/upeshv) | [Technical Labs](https://github.com/upeshv/upeshv#📋-technical-labs--toolkits)
 
-- 📧 **Email:** [vishwa.upesh@gmail.com](mailto:vishwa.upesh@gmail.com)
+##Contact Details##
+📧 **Email:** [vishwa.upesh@gmail.com](mailto:vishwa.upesh@gmail.com)
 
 ---
 
