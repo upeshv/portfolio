@@ -31,8 +31,6 @@
 </ul>
 </details>
 
-<hr>
-
 <details>
 <summary><b>🌐 Enterprise Website Revamp & Engineering Automation</b> — <i>(Click to expand)</i></summary>
 <ul>
@@ -42,8 +40,6 @@
 </ul>
 </details>
 
-<hr>
-
 <details>
 <summary><b>📦 Infrastructure: WPEngine Staging Re-Design</b> — <i>(Click to expand)</i></summary>
 <ul>
@@ -52,8 +48,6 @@
   <li><b>Scalability:</b> Engineered a framework allowing rapid deployment without increasing overhead.</li>
 </ul>
 </details>
-
-<hr>
 
 <details>
 <summary><b>🔄 Global Migration: Rails to WordPress</b> — <i>(Click to expand)</i></summary>
